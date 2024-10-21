@@ -1,0 +1,7 @@
+Patients_id,first_name,last_name,gender,birth_date,city,province_id,allergies,height,weight
+1,Ronit,Roy,M,1999-03-23,Kolkata,100,NULL,5.5,80
+2,Mayank,Sen,M,1995-03-23,Delhi,200,Yes,5,70
+3,Shwetha,Ramkrisnppa,F,2000-03-23,Bangalore,30,Yes,4.8,50
+4,Riya,Ghanty,F,1993-03-23,Durgapur,500,NULL,5.1,48
+5,Rupa,Sen,F,1990-03-23,Delhi,200,Yes,5,70
+6,Ronit,Sen,M,1999-08-20,Kolkata,100,NULL,5.9,90
